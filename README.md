@@ -1,3 +1,3 @@
 # portfolio
 
-## simple  Page showing some of my project works
+## Simple  page showing some of my project works
